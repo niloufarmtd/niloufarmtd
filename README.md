@@ -54,21 +54,21 @@ Data Structures, Algorithms, Computer Networks, Operating Systems, Software Engi
 - Implemented Othello AI using Minimax, Expectimax, and MCTS algorithms  
 - Developed a PyGame GUI with a weighted board evaluation system  
 - Created multiple AI vs AI game modes for algorithm comparison  
-- [GitHub Repository](https://github.com/niloufarmid/Othello-Game)
+- [GitHub Repository](https://github.com/niloufarmtd/Othello-Game)
 
 ### 🏗️ Skyscraper Puzzle Solver  
 **Technologies:** Python, Tkinter, CSP Algorithms  
 - Built a constraint satisfaction problem solver for Skyscraper puzzles  
 - Implemented backtracking with MW, LCV, and MAC optimizations  
 - Designed a Tkinter GUI with real-time puzzle visualization  
-- [GitHub Repository](https://github.com/niloufarmid/Skyscraper-Puzzle-Solver)
+- [GitHub Repository](https://github.com/niloufarmtd/Skyscraper-Puzzle-Solver)
 
 ### 🧬 Genetic Algorithm Analysis  
 **Technologies:** Python, Scikit-learn, Pandas, Matplotlib  
 - Conducted a comparative analysis of Genetic Algorithm vs K-Means clustering  
 - Implemented advanced outlier detection using Z-score and IQR methods  
 - Utilized PCA for dimensionality reduction and performance visualization  
-- [GitHub Repository](https://github.com/niloufarmid/Genetic-Algorithm)
+- [GitHub Repository](https://github.com/niloufarmtd/Genetic-Algorithm)
 
 ### 🕵️ Fraud Detection System  
 **Technologies:** Python, LightGBM, LazyPredict, Jupyter Notebook  
@@ -83,7 +83,7 @@ Data Structures, Algorithms, Computer Networks, Operating Systems, Software Engi
 Feel free to reach out to me for collaboration or opportunities:  
 - **Email:** niloufarmotamedi04@gmail.com  
 - **LinkedIn:** [niloufar-motamedi-1b538026a](https://linkedin.com/in/niloufar-motamedi-1b538026a)  
-- **GitHub:** [niloufarmid](https://github.com/niloufarmid)
+- **GitHub:** [niloufarmid](https://github.com/niloufarmtd)
 
 ---
 
